@@ -1,1 +1,1 @@
-# background-generator
+# background-generator + create random background
