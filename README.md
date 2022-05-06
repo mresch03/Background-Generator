@@ -1,1 +1,1 @@
-# background-generator + create random background
+# linear gradient background-generator + create random background
